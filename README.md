@@ -5,11 +5,10 @@ Muhammad Fakhry Zaki
 ## Pendahuluan
 
 ## Persyaratan
-Untuk menjalankan program, anda diharuskan sudah memiliki :
+Untuk menjalankan program, pengguna diharuskan sudah memiliki:
 
 ### C++
-- Versi ...
-- Link Download ...
+- Link Download: [Cpp-5](https://www.dev-cpp.com/Dev-Cpp-5/)
 
 ## Menjalankan Program
 1. Pastikan anda berada di direktori utama (root), kemudian jalankan perintah ini pada terminal untuk melakukan kompilasi program
