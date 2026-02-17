@@ -1,0 +1,12 @@
+=================================================
+AABBB#C
+AB#DBBC
+ABDD#BE
+ABBDBB#
+#FBBBFF
+FFF#FFF
+F#FFFFF
+File masukan       : input2.txt
+Waktu komputasi    : 44 ms
+Jumlah iterasi     : 40443
+=================================================

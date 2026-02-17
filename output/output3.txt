@@ -1,0 +1,14 @@
+=================================================
+AAAB#CDDD
+#AABDDDDD
+EEABBBFB#
+EEEEBB#BD
+EE#EBBBBB
+EHEBBGB#B
+EHE#GGBBB
+H#GGGGGBB
+HHHGG#GBB
+File masukan       : input3.txt
+Waktu komputasi    : 5041 ms
+Jumlah iterasi     : 4489055
+=================================================

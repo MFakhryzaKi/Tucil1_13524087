@@ -1,0 +1,14 @@
+=================================================
+A#BBCCCCC
+AAAA#CCCC
+#AAACDDCC
+AAA#DDDDD
+AAADDD#GG
+DD#DDDDGG
+DDDDIDHH#
+DDDDI#HHH
+DDDIIIH#H
+File masukan       : input4.txt
+Waktu komputasi    : 1425 ms
+Jumlah iterasi     : 1395111
+=================================================

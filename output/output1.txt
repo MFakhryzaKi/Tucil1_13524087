@@ -1,0 +1,14 @@
+=================================================
+AAABBCC#D
+ABBB#CECD
+ABBBDC#CD
+A#ABDCCCD
+BBBBD#DDD
+FGG#DDHDD
+#GIGDDHDD
+FG#GDDHDD
+FGGGDDHH#
+File masukan       : input1.txt
+Waktu komputasi    : 23098 ms
+Jumlah iterasi     : 21415356
+=================================================
